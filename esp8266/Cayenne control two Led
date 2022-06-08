@@ -10,7 +10,7 @@ char client_id[] = "8307ca30-d9d5-11ec-8da3-474359af83d7";
 int led_pin1=5;
 
 int led_pin2=4;
-//int led_pin2=5;
+//int led_pin2=5; 
 
 void setup() 
 {
