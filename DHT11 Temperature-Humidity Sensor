@@ -3,7 +3,7 @@
 
 #define dht_apin A0 // Analog Pin sensor is connected to
  
-dht DHT;
+dht DHT;jd
  
 void setup(){
  
