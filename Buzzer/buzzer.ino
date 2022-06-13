@@ -4,7 +4,7 @@
 int IRSensor = 8; // connect ir sensor to arduino pin 2
 int Buzzer = 7; // connect Led to arduino pin 13
 
-void setup()
+void setup() 
 {
 pinMode (IRSensor, INPUT); // sensor pin INPUT
 pinMode (Buzzer, OUTPUT); // Led pin OUTPUT
